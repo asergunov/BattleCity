@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LevelScene.qml</file>
+        <file>PlayerInput.qml</file>
+        <file>Actor.qml</file>
+        <file>sprites.png</file>
+        <file>Tank.qml</file>
+        <file>FieldCell.qml</file>
+        <file>Bullet.qml</file>
+        <file>Player.qml</file>
+        <file>Enemy.qml</file>
+        <file>BaseSprite.qml</file>
+        <file>Digit.qml</file>
+        <file>LevelIndicator.qml</file>
+        <file>EnemyCounter.qml</file>
+        <file>Number.qml</file>
+        <file>TVEffect1.qml</file>
+        <file>TVEffect.qml</file>
+        <file>BulletExplosion.qml</file>
+        <file>TankExplosion.qml</file>
+        <file>Content.qml</file>
+        <file>LevelSelector.qml</file>
+    </qresource>
+</RCC>
